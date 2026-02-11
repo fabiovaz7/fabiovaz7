@@ -9,20 +9,18 @@
 
 ##
 
-<div> 
+<div style="display:flex; gap:10px; flex-wrap:wrap;"> 
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/fabio-augusto-vaz-b50b72264/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fabio%20Vaz-blue?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LINKEDIN-FABIO%20VAZ-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <!-- Outlook -->
   <a href="mailto:fabioaugustovaz@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-Email-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img src="https://img.shields.io/badge/OUTLOOK-EMAIL-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
-</div>
 
-<!-- Instagram -->
   <a href="https://instagram.com/_fabiovaz" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@fabiovaz-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@FABIOVAZ-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
+
+</div>
