@@ -11,13 +11,19 @@
 
 <div style="display:flex; gap:10px; flex-wrap:wrap;"> 
 
-  <a href="https://www.linkedin.com/in/fabio-augusto-vaz-b50b72264/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabio-augusto-vaz-b50b72264/" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LINKEDIN-FABIO%20VAZ-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="mailto:fabioaugustovaz@outlook.com">
+  <a href="mailto:fabioaugustovaz@outlook.com" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/OUTLOOK-EMAIL-blue?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
   </a>
+
+  <a href="https://instagram.com/_fabiovaz" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/INSTAGRAM-@FABIOVAZ-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
+</div>
 
   <a href="https://instagram.com/_fabiovaz" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-@FABIOVAZ-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
