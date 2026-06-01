@@ -10,7 +10,7 @@
 ##
 
 <p> 
-  <a href="https://www.linkedin.com/in/fabio-augusto-vaz-b50b72264/" target="_blank">
+  <a href="https://www.linkedin.com/in/fabio-augusto-vaz-b50b72264" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-FABIO%20VAZ-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:fabioaugustovaz@outlook.com">
